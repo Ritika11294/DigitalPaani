@@ -33,6 +33,6 @@ To run the Weather Application locally, follow these steps:
 3. Run the application:
    npm run dev
 
-
+## The source code is located in the src folder.
 
 
